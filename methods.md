@@ -1,4 +1,4 @@
 # Methods
 ## Experiment A
-## Experiment C
-Description of the elements of experiment C.
+## Other experiments
+Combined description of the elements of experiment B and C.
